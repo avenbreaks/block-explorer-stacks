@@ -42,11 +42,7 @@ export const SITE_NOTICE_BANNER_MESSAGE =
 export const SITE_NOTICE_ENABLED = SITE_NOTICE_BANNER_LABEL && SITE_NOTICE_BANNER_MESSAGE;
 
 export const APP_DETAILS = {
-<<<<<<< HEAD
-  name: 'Stacks Explorer',
-=======
   name: 'GitEdgeware Explorer',
->>>>>>> 528f06b (upload)
   icon: STACKS_EXPLORER_APP_ICON,
 };
 export const DEPLOYMENT_URL =
